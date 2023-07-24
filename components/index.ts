@@ -1,5 +1,10 @@
 import CustomButton from "./CustomButton";
-import ItemsPage from "./ItemsPage";
-import SuppliersPage from "./SuppliersPage";
+import NavBar from "./Navbar";
+import Footer from "./Footer";
+import CarCard from "./CarCard";
+import CarDetails from "./CarDetails";
+import SearchBar from "./Searchbar";
+import Hero from "./Hero";
+import CustomFilter from "./CustomFilter";
 
-export { CustomButton, SuppliersPage, ItemsPage };
+export { CustomButton, CarDetails, CarCard, NavBar, Footer, SearchBar, Hero, CustomFilter };
